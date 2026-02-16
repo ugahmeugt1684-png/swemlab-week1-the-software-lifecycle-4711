@@ -37,7 +37,7 @@ Without a lifecycle, software development would be disorganized and difficult to
 - **Deployment:** Release the software to users.  
 - **Maintenance:** Update and fix the software after release.
 
-![Waterfall Diagram](Diagram.PNG
+![Waterfall Diagram](Diagram.PNG)
 
 
 

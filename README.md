@@ -14,6 +14,7 @@ In simple terms, Software Engineering is the professional way of building softwa
 
 Software follows a lifecycle to ensure that development is organized and well managed.
 
+
 A lifecycle helps to:
 
 - Avoid confusion during development  

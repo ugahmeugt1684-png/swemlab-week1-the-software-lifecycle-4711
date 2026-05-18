@@ -1,4 +1,4 @@
-# Introduction to Software Engineering & SDLC
+## Introduction to Software Engineering & SDLC
 
 ## 1. Describe what Software Engineering is
 
